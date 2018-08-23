@@ -1,0 +1,76 @@
+{
+  "clients": [
+    {
+      "name": "Donald Trump",
+      "id": 0,
+      "email": "donald.trump@gmail.com",
+      "phone": "(32) 9 99552155",
+      "online": true,
+      "isClient": true,
+      "image": "http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2016/05/160503_POL_trump-president.jpg.CROP.promo-xlarge2.jpg",
+      "balanceOfBtc": "0.00670847",
+      "balanceOfMoney": "174,47",
+      "location": "Juiz de Fora - MG"
+    },
+    {
+      "name": "Fatima Bernardes",
+      "id": 1,
+      "email": "fatima.bernardes@gmail.com",
+      "phone": "(55) 9 88211990",
+      "online": false,
+      "isClient": true,
+      "image": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2018/08/fatima-bernardes.jpg",
+      "balanceOfBtc": "0.02881466",
+      "balanceOfMoney": "688,10",
+      "location": "Santa Maria - RS"
+    },
+    {
+      "name": "Will Smith",
+      "id": 2,
+      "email": "will.smith@gmail.com",
+      "phone": "(49) 9 99746610",
+      "online": false,
+      "isClient": true,
+      "image": "http://br.web.img2.acsta.net/pictures/17/02/08/16/50/452749.jpg",
+      "balanceOfBtc": "1.00694230",
+      "balanceOfMoney": "26.118,20",
+      "location": "Belmonte - SC"
+    },
+    {
+      "name": "Silvio Santos",
+      "id": 3,
+      "email": "silvio.santos@gmail.com",
+      "phone": "(47) 9 98471003",
+      "online": true,
+      "isClient": true,
+      "image": "http://midias.gazetaonline.com.br/_midias/jpg/2015/03/18/silviosantos-3782956.jpg",
+      "balanceOfBtc": "0.15794630",
+      "balanceOfMoney": "1.673,98",
+      "location": "Joinville - SC"
+    },
+    {
+      "name": "Tais Araujo",
+      "id": 4,
+      "email": "tais.araujo@gmail.com",
+      "phone": "(11) 9 99760200",
+      "online": true,
+      "isClient": true,
+      "image": "https://observatoriodosfamosos.bol.uol.com.br/portal/wp-content/uploads/2018/05/tais-araujo.jpg",
+      "balanceOfBtc": "0.00987466",
+      "balanceOfMoney": "854,69",
+      "location": "São Paulo - SP"
+    },
+    {
+      "name": "Angelina Jolie",
+      "id": 5,
+      "email": "angelina.jolie@gmail.com",
+      "phone": "(51) 9 88107401",
+      "online": true,
+      "isClient": true,
+      "image": "https://www.lucianapepino.com.br/wp-content/uploads/angelina-jolie.jpg",
+      "balanceOfBtc": "0.52803977",
+      "balanceOfMoney": "12.623,08",
+      "location": "Porto Alegre - RS"
+    }
+  ]
+}

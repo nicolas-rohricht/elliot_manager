@@ -20,7 +20,7 @@ Se você tiver interesse em testar o projeto, me envie um e-mail no endereço ni
 
 # Elliot Manager
 
-Elliot Manager Project, was created as a recruitment test for a finnancial startup in Brazil called Elliot. Elliot belongs to a fintech Warren Group, wich has an app called Warren.
+Elliot Manager Project, was created as a recruitment test for a financial startup in Brazil called Elliot. Elliot belongs to a fintech Warren Group, which has an app called Warren.
 
 ## Running the project
 
@@ -32,5 +32,5 @@ If you wanna check my project, send me an e-mail to nicolas.rohricht@outlook.com
 
 ## Author
 
-* **Nícolas Michel Rohricht** - [Nicolas Rohricht](https://github.com/nicolas-rohricht)
+* **Nícolas Michel Rohricht** - [Nicolas Rohricht](https://www.linkedin.com/in/n%C3%ADcolas-rohricht-928572109/)
 

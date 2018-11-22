@@ -14,7 +14,7 @@ Se você tiver interesse em testar o projeto, me envie um e-mail no endereço ni
 
 ## Autor
 
-* **Nícolas Michel Rohricht** - [Nicolas Rohricht](https://github.com/nicolas-rohricht)
+* **Nícolas Michel Rohricht** - [Nicolas Rohricht](https://www.linkedin.com/in/n%C3%ADcolas-rohricht-928572109/)
 
 # English
 
